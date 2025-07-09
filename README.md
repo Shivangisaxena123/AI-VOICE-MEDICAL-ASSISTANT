@@ -5,6 +5,7 @@
 🤝 That said, if any individual or organization is interested in collaborating, I’m open to discussions! Let’s work together to refine and scale this solution based on your needs.
 
 🎯 To try out the app, click the link below, log in, and explore the features available.
+[AI-Medical-Voice-Agent](https://ai-medical-voice-agent-rudresh-bhargav.vercel.app/)
 
 Thanks for exploring the project!
 
