@@ -1,3 +1,21 @@
+🚧 Note: The View Report Details, Pricing, and Profile sections are still under development. However, the core functionality of the app is live—you can interact with AI-powered doctors specialized in various fields to assist with your health concerns.
+
+💡 I’ve intentionally left out the Pricing section, as this project is not meant for commercial purposes at the moment. The goal is to make specialized AI doctor assistance accessible to everyone, completely free.
+
+🤝 That said, if any individual or organization is interested in collaborating, I’m open to discussions! Let’s work together to refine and scale this solution based on your needs.
+
+🎯 To try out the app, click the link below, log in, and explore the features available.
+
+Thanks for exploring the project!
+
+**– Rudresh Bhargav**  
+Creator of AI Medical Voice Agent  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/rudreshbhargav)
+
+💬 _Open to collaborations or ideas to take this project further._
+
+You can ignore the texts below!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -28,9 +46,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
